@@ -2,8 +2,8 @@
 
 This is pretty cool. ✨
 
-| Full-Stack | Open Source | Typescript | Friendly |
-| ---------- | ----------- | ---------- | -------- |
+| Full-Stack | Open Source | Typescript | Friendly | Basically Anything |
+| ---------- | ----------- | ---------- | -------- | ------------------ |
 
 - 🔭 I’m currently participating in [#100DaysOfCode](https://100daysofcode.com/).
 - 🌱 I’m currently learning C++, React Native, and Flutter.
