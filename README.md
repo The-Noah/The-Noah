@@ -5,7 +5,7 @@ This is pretty cool. ✨
 | Full-Stack | Open Source |
 | ---------- | ----------- |
 
-- 🔭 I’m currently participating in [#100DaysOfCode](https://100daysofcode.com/).
+- 🔭 I’m currently working on a voxel engine in C++.
 - 🌱 I’m currently learning C++, React Native, and Flutter.
 - 👯 I’m looking to collaborate on anything 😁
 - 💬 Ask me about anything!
