@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-This is pretty cool. ✨
-
-| Full-Stack | Open Source |
-| ---------- | ----------- |
+💻 Full-stack developer • 🎮 gaming content creator • 💖 #opensource & 🐱 cats • 😎 Admin & Social Manager @SectorsEdge
 
 - 🔭 I’m currently working on a voxel engine in C++.
 - 🌱 I’m currently learning C++ and Flutter.
