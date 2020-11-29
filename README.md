@@ -1,4 +1,6 @@
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=The-Noah&count_private=true&show_icons=true&theme=vue">
+<a href="https://gitstalk.netlify.app/The-Noah">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=The-Noah&count_private=true&show_icons=true&theme=vue">
+</a>
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&labelColor=007ACC)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logoColor=white&logo=javascript&labelColor=F7DF1E)
