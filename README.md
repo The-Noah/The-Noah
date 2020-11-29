@@ -5,7 +5,7 @@
 💻 Full-stack developer • 🎮 gaming content creator • 💖 #opensource & 🐱 cats • 😎 Admin & Social Manager @SectorsEdge
 
 - 🔭 I’m currently working on a voxel engine in C++.
-- 🌱 I’m currently learning C++ and Flutter.
+- 🌱 I’m currently learning C++ and looking at Deno again.
 - 👯 I’m looking to collaborate on anything 😁
 - 💬 Ask me about anything!
 - 📫 How to reach me: [@The_Noah_Blitz](https://twitter.com/The_Noah_Blitz).
