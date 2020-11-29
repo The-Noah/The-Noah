@@ -1,3 +1,5 @@
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=The-Noah&count_private=true&show_icons=true&theme=vue">
+
 ### Hi there 👋
 
 💻 Full-stack developer • 🎮 gaming content creator • 💖 #opensource & 🐱 cats • 😎 Admin & Social Manager @SectorsEdge
