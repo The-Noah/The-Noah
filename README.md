@@ -1,8 +1,18 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=The-Noah&count_private=true&show_icons=true&theme=vue">
 
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&labelColor=007ACC)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logoColor=white&logo=javascript&labelColor=F7DF1E)
+![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logoColor=white&logo=react&labelColor=61DAFB)
+![Deno](https://img.shields.io/badge/-Deno-black?style=for-the-badge&logoColor=white&logo=deno&labelColor=000000)
+![Node](https://img.shields.io/badge/-Node-black?style=for-the-badge&logoColor=white&logo=node.js&labelColor=339933)
+![HTML](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logoColor=white&logo=html5&labelColor=E34F26)
+![CSS](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logoColor=white&logo=css3&labelColor=1572B6)
+![SASS](https://img.shields.io/badge/-SASS-black?style=for-the-badge&logoColor=white&logo=sass&labelColor=CC6699)
+![C++](https://img.shields.io/badge/-C++-black?style=for-the-badge&logoColor=white&logo=c%2B%2B&labelColor=00599C)
+
 ### Hi there 👋
 
-💻 Full-stack developer • 🎮 gaming content creator • 💖 #opensource & 🐱 cats • 😎 Admin & Social Manager @SectorsEdge
+💻 Full-stack developer • 🎮 gaming content creator • 💖 #opensource & 🐱 cats • 😎 Admin & Social Manager [@SectorsEdge](https://twitter.com/SectorsEdge)
 
 - 🔭 I’m currently working on a voxel engine in C++.
 - 🌱 I’m currently learning C++ and looking at Deno again.
@@ -28,4 +38,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=typescript&labelColor=007ACC)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript&labelColor=F7DF1E)
+![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&labelColor=61DAFB)
+![Deno](https://img.shields.io/badge/-Deno-black?style=for-the-badge&logo=deno&labelColor=000000)
+![Node](https://img.shields.io/badge/-Node-black?style=for-the-badge&logo=node.js&labelColor=339933)
+![C++](https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=cplusplus&labelColor=00599C)
 -->
