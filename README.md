@@ -5,8 +5,8 @@
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&labelColor=007ACC)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logoColor=white&logo=javascript&labelColor=F7DF1E)
-![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logoColor=white&logo=react&labelColor=61DAFB)
 ![Deno](https://img.shields.io/badge/-Deno-black?style=for-the-badge&logoColor=white&logo=deno&labelColor=000000)
+![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logoColor=white&logo=react&labelColor=61DAFB)
 ![Node](https://img.shields.io/badge/-Node-black?style=for-the-badge&logoColor=white&logo=node.js&labelColor=339933)
 ![HTML](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logoColor=white&logo=html5&labelColor=E34F26)
 ![CSS](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logoColor=white&logo=css3&labelColor=1572B6)
