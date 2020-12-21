@@ -12,7 +12,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logoColor=white&logo=css3&labelColor=1572B6)
 ![SASS](https://img.shields.io/badge/-SASS-black?style=for-the-badge&logoColor=white&logo=sass&labelColor=CC6699)
 ![C++](https://img.shields.io/badge/-C++-black?style=for-the-badge&logoColor=white&logo=c%2B%2B&labelColor=00599C)
-![Rust](https://img.shields.io/badge/-Rust-black?style=for-the-badge&logoColor=white&logo=rust&labelColor=000000)
+![Rust](https://img.shields.io/badge/-Rust-black?style=for-the-badge&logoColor=white&logo=rust&labelColor=221E1F)
 
 ### Hi there 👋
 
