@@ -50,3 +50,5 @@ Here are some ideas to get you started:
 <a href="https://gitstalk.netlify.app/The-Noah" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=The-Noah&count_private=true&show_icons=true&theme=vue-dark">
 </a>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=The-Noah&layout=compact&show_icons=true&theme=vue-dark&exclude_repo=cengine)
