@@ -13,7 +13,8 @@
 
 💻 Full-stack developer • 🎮 gaming content creator • 💖 open-source & 🐱 cats • 😎 Admin & Social Manager [@SectorsEdge](https://twitter.com/SectorsEdge)
 
-- 🔭 I’m currently working on a voxel engine in C++.
+- 🏁 I have several goals for 2021, which can be found [here](https://github.com/users/The-Noah/projects/1) as a GitHub project.
+- 🔭 I’m currently working on too many projects: a voxel engine in C++, a BZW renderer in WebGL, a static website generator, a better ls command, and more.
 - 🌱 I’m currently learning C++ & Rust, and soon WebAssembly.
 - 👯 I’m looking to collaborate on anything 😁
 - 💬 Ask me about anything!
