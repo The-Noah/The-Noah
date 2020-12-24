@@ -24,6 +24,7 @@
 🔗 Website: [the-noah.github.io](https://the-noah.github.io/)
 🐦 Twitter: [@The_Noah_Blitz](https://twitter.com/The_Noah_Blitz)
 😎 Discord: [discord.gg/fp7TjCe](https://discord.gg/fp7TjCe)
+📝 Blog: [@thenoah on Hashnode](https://thenoah.hashnode.dev)
 
 <!--
 **The-Noah/The-Noah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
