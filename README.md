@@ -1,3 +1,7 @@
+### Hi there, I'm Noah 👋
+
+💻 Full-stack developer • 🎮 gaming content creator • 💖 open-source & 🐱 cats • 😎 Admin & Social Manager [@SectorsEdge](https://twitter.com/SectorsEdge)
+
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&labelColor=007ACC)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logoColor=white&logo=javascript&labelColor=F7DF1E)
 ![Deno](https://img.shields.io/badge/-Deno-black?style=for-the-badge&logoColor=white&logo=deno&labelColor=000000)
@@ -9,10 +13,6 @@
 ![C++](https://img.shields.io/badge/-C++-black?style=for-the-badge&logoColor=white&logo=c%2B%2B&labelColor=00599C)
 ![Rust](https://img.shields.io/badge/-Rust-black?style=for-the-badge&logoColor=white&logo=rust&labelColor=221E1F)
 
-### Hi there 👋
-
-💻 Full-stack developer • 🎮 gaming content creator • 💖 open-source & 🐱 cats • 😎 Admin & Social Manager [@SectorsEdge](https://twitter.com/SectorsEdge)
-
 - 🏁 I have several goals for 2021, which can be found [here](https://github.com/users/The-Noah/projects/1) as a GitHub project.
 - 🔭 I’m currently working on too many projects: a voxel engine in C++, a BZW renderer in WebGL, a static website generator, a better ls command, and more.
 - 🌱 I’m currently learning C++ & Rust, and soon WebAssembly.
@@ -21,7 +21,7 @@
 - 📫 How to reach me on Twiiter [@The_Noah_Blitz](https://twitter.com/The_Noah_Blitz).
 - ⚡ Fun fact: cats are the best, no questions asked.
 
-🔗 Website: [the-noah.github.io](https://the-noah.github.io/)
+🔗 Website: [thenoah.dev](https://thenoah.dev/)
 🐦 Twitter: [@The_Noah_Blitz](https://twitter.com/The_Noah_Blitz)
 😎 Discord: [discord.gg/fp7TjCe](https://discord.gg/fp7TjCe)
 📝 Blog: [@thenoah on Hashnode](https://thenoah.hashnode.dev)
