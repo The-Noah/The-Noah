@@ -28,13 +28,18 @@ I’ve been teaching myself to code for almost 10 years, with a focus on creatin
 - 💬 Ask me about anything!
 - 📫 You can me on Twiiter [@The_Noah_Blitz](https://twitter.com/The_Noah_Blitz) or via email thenoahbz@gmail.com
 
+### Links
+
 🔗 Website: [thenoah.dev](https://thenoah.dev/)
 🐦 Twitter: [@The_Noah_Blitz](https://twitter.com/The_Noah_Blitz)
 📝 Blog: [blog.thenoah.dev](https://blog.thenoah.dev)
 😎 Discord: [discord.gg/fp7TjCe](https://discord.gg/fp7TjCe)
 
-[![GitHub Activity](https://img.shields.io/badge/-GitHub%20Activity-white?style=for-the-badge&logoColor=black&logo=github&labelColor=FFFFFF)](https://gitstalk.netlify.app/The-Noah)
-[![Hashnode](https://img.shields.io/badge/-Hashnode-white?style=for-the-badge&logoColor=2962FF&logo=hashnode&labelColor=FFFFFF)](https://hashnode.com/@thenoah)
+[![Website](https://img.shields.io/badge/-Website-white?style=for-the-badge)](https://thenoah.dev)
+[![Twitter](https://img.shields.io/badge/-@The_Noah_Blitz-white?style=for-the-badge&logo=twitter)](https://thenoah.dev)
+[![Blog](https://img.shields.io/badge/-Blog-white?style=for-the-badge&logoColor=2962FF&logo=hashnode)](https://hashnode.com/@thenoah)
+[![Discord](https://img.shields.io/badge/-Discord-white?style=for-the-badge&logo=discord)](https://thenoah.dev)
+[![GitHub Activity](https://img.shields.io/badge/-GitHub%20Activity-white?style=for-the-badge&logoColor=black&logo=github)](https://gitstalk.netlify.app/The-Noah)
 
 <!--
 **The-Noah/The-Noah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
