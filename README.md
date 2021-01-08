@@ -30,11 +30,6 @@ I’ve been teaching myself to code for almost 10 years, with a focus on creatin
 
 ### Links
 
-🔗 Website: [thenoah.dev](https://thenoah.dev/)
-🐦 Twitter: [@The_Noah_Blitz](https://twitter.com/The_Noah_Blitz)
-📝 Blog: [blog.thenoah.dev](https://blog.thenoah.dev)
-😎 Discord: [discord.gg/fp7TjCe](https://discord.gg/fp7TjCe)
-
 [![Website](https://img.shields.io/badge/-Website-white?style=for-the-badge)](https://thenoah.dev)
 [![Twitter](https://img.shields.io/badge/-@The_Noah_Blitz-white?style=for-the-badge&logo=twitter)](https://thenoah.dev)
 [![Blog](https://img.shields.io/badge/-Blog-white?style=for-the-badge&logoColor=2962FF&logo=hashnode)](https://hashnode.com/@thenoah)
