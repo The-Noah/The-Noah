@@ -21,7 +21,7 @@
 ![Edge](https://img.shields.io/badge/-Edge-0078D7?style=for-the-badge&logoColor=white&logo=microsoft-edge)
 
 - 🏁 I have several goals for 2021, which can be found [here](https://github.com/users/The-Noah/projects/1) as a GitHub project.
-- 🔭 I’m currently working on too many projects: a voxel engine in C++, a [BZW renderer in WebGL](https://github.com/The-Noah/webbzw), a [static website generator](https://github.com/The-Noah/static-site-generator), a [better ls command](https://github.com/The-Noah/lsfp), and more.
+- 🔭 I’m currently working on too many projects: a voxel engine in C++, [BZW renderer in WebGL](https://github.com/The-Noah/webbzw), [static website generator](https://github.com/The-Noah/static-site-generator), [better ls command](https://github.com/The-Noah/lsfp), and more.
 - 🌱 I’m currently learning C++, Rust, and soon WebAssembly.
 - 👯 I’m looking to collaborate on anything 😁
 - 💬 Ask me about anything!
