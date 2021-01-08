@@ -1,6 +1,7 @@
 ## Hi there, I'm Noah 👋
 
-💻 Full-stack developer • 🎮 gaming content creator • 💖 open-source & 🐱 cats • 😎 Admin & Social Manager [@SectorsEdge](https://twitter.com/SectorsEdge)
+### Self Taught Full-Stack Developer
+I’ve been teaching myself to code for almost 10 years, with a focus on creating websites and apps with the back-end to support them.
 
 ### Tech Stack
 
