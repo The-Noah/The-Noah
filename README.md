@@ -1,8 +1,8 @@
-### Hi there, I'm Noah 👋
+## Hi there, I'm Noah 👋
 
 💻 Full-stack developer • 🎮 gaming content creator • 💖 open-source & 🐱 cats • 😎 Admin & Social Manager [@SectorsEdge](https://twitter.com/SectorsEdge)
 
-#### Tech Stack
+### Tech Stack
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logoColor=white&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logoColor=black&logo=javascript)
