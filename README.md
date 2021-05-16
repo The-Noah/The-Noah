@@ -33,7 +33,7 @@ I’ve been teaching myself to code for almost 10 years, with a focus on creatin
 [![Website](https://img.shields.io/badge/-Website-white?style=for-the-badge)](https://thenoah.dev)
 [![Twitter](https://img.shields.io/badge/-@The_Noah_Blitz-white?style=for-the-badge&logo=twitter)](https://thenoah.dev)
 [![Blog](https://img.shields.io/badge/-Blog-white?style=for-the-badge&logoColor=2962FF&logo=hashnode)](https://hashnode.com/@thenoah)
-[![Discord](https://img.shields.io/badge/-Discord-white?style=for-the-badge&logo=discord)](https://thenoah.dev)
+[![Discord](https://img.shields.io/badge/-Discord-white?style=for-the-badge&logo=discord)](https://discord.gg/fp7TjCe)
 [![GitHub Activity](https://img.shields.io/badge/-GitHub%20Activity-white?style=for-the-badge&logoColor=black&logo=github)](https://gitstalk.netlify.app/The-Noah)
 
 <!--
