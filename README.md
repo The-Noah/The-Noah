@@ -7,6 +7,7 @@ I’m a full-stack developer who loves learning and building various websites an
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logoColor=white&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logoColor=black&logo=javascript)
+![Svelte](https://img.shields.io/badge/-Svelte-61DAFB?style=for-the-badge&logoColor=black&logo=svelte)
 ![Deno](https://img.shields.io/badge/-Deno-000000?style=for-the-badge&logoColor=white&logo=deno)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logoColor=black&logo=react)
 ![Node](https://img.shields.io/badge/-Node-339933?style=for-the-badge&logoColor=white&logo=node.js)
@@ -22,18 +23,17 @@ I’m a full-stack developer who loves learning and building various websites an
 ![Edge](https://img.shields.io/badge/-Edge-0078D7?style=for-the-badge&logoColor=white&logo=microsoft-edge)
 
 - 🏁 I have several goals for 2021, which can be found [here](https://github.com/users/The-Noah/projects/1) as a GitHub project.
-- 🔭 I’m currently working on too many projects: a [voxel engine in C++](https://cppvoxel.netlify.app), [BZW renderer in WebGL](https://github.com/The-Noah/webbzw), [static website generator](https://github.com/The-Noah/static-site-generator), [better ls command](https://github.com/The-Noah/lsfp), and more.
+- 🔭 I’m currently working on too many projects: [Bug report for Sector's Edge](https://bugs.sectorsedge.com) a [BZW renderer in WebGL](https://github.com/The-Noah/webbzw), and some proprietary ones.
 - 🌱 I’m currently learning C++, Rust, and soon WebAssembly.
 - 👯 I’m looking to collaborate on anything 😁
 - 💬 Ask me about anything!
-- 📫 You can me on Twiiter [@The_Noah_Blitz](https://twitter.com/The_Noah_Blitz) or via email thenoahbz@gmail.com
+- 📫 You can me on Twiiter [@The_Noah_Blitz](https://twitter.com/The_Noah_Blitz) or via email [thenoahbz@gmail.com](mailto:thenoahbz@gmail.com)
 
 ### Links
 
-[![Website](https://img.shields.io/badge/-Website-white?style=for-the-badge)](https://thenoah.dev)
-[![Twitter](https://img.shields.io/badge/-@The_Noah_Blitz-white?style=for-the-badge&logo=twitter)](https://thenoah.dev)
-[![Blog](https://img.shields.io/badge/-Blog-white?style=for-the-badge&logoColor=2962FF&logo=hashnode)](https://hashnode.com/@thenoah)
-[![Discord](https://img.shields.io/badge/-Discord-white?style=for-the-badge&logo=discord)](https://discord.gg/fp7TjCe)
+[![Website](https://img.shields.io/badge/-Website-white?style=for-the-badge)](https://noahdunbar.com)
+[![Twitter](https://img.shields.io/badge/-@The_Noah_Blitz-white?style=for-the-badge&logo=twitter)](https://twitter.com/The_Noah_Blitz)
+[![Blog](https://img.shields.io/badge/-Blog-white?style=for-the-badge&logoColor=2962FF&logo=hashnode)](https://blog.noahdunbar.com)
 [![GitHub Activity](https://img.shields.io/badge/-GitHub%20Activity-white?style=for-the-badge&logoColor=black&logo=github)](https://gitstalk.netlify.app/The-Noah)
 
 <!--
