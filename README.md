@@ -1,6 +1,5 @@
 ## Hi there, I'm Noah 👋
 
-### Self Taught Full-Stack Developer
 I’m a full-stack developer who loves learning and building various websites and tools, especially related to real-time data. I’ve been teaching myself to code for the past 10 years while homeschooled my entire life. I'm highly motivated to learn new skills while bringing my all to everything I do.
 
 ### Tech Stack
