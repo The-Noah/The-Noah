@@ -31,7 +31,7 @@ I’m a full-stack developer who loves learning and building various websites an
 ### Links
 
 [![Website](https://img.shields.io/badge/-Website-white?style=for-the-badge)](https://noahdunbar.com)
-[![Twitter](https://img.shields.io/badge/-@The_Noah_Blitz-white?style=for-the-badge&logo=twitter)](https://twitter.com/The_Noah_Blitz)
+[![Twitter](https://img.shields.io/badge/-@NoahDunbarDev-white?style=for-the-badge&logo=twitter)](https://twitter.com/NoahDunbarDev)
 [![Blog](https://img.shields.io/badge/-Blog-white?style=for-the-badge&logoColor=2962FF&logo=hashnode)](https://blog.noahdunbar.com)
 [![GitHub Activity](https://img.shields.io/badge/-GitHub%20Activity-white?style=for-the-badge&logoColor=black&logo=github)](https://gitstalk.netlify.app/The-Noah)
 
