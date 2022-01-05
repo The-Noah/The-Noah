@@ -6,7 +6,7 @@ I’m a full-stack developer who loves learning and building various websites an
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logoColor=white&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logoColor=black&logo=javascript)
-![Svelte](https://img.shields.io/badge/-Svelte-61DAFB?style=for-the-badge&logoColor=black&logo=svelte)
+![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=for-the-badge&logoColor=white&logo=svelte)
 ![Deno](https://img.shields.io/badge/-Deno-000000?style=for-the-badge&logoColor=white&logo=deno)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logoColor=black&logo=react)
 ![Node](https://img.shields.io/badge/-Node-339933?style=for-the-badge&logoColor=white&logo=node.js)
