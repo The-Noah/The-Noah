@@ -26,7 +26,7 @@ I’m a full-stack developer who loves learning and building various websites an
 - 🌱 I’m currently learning C++, Rust, and soon WebAssembly.
 - 👯 I’m looking to collaborate on anything 😁
 - 💬 Ask me about anything!
-- 📫 You can me on Twiiter [@The_Noah_Blitz](https://twitter.com/The_Noah_Blitz) or via email [thenoahbz@gmail.com](mailto:thenoahbz@gmail.com)
+- 📫 You can me on Twiiter [@NoahDunbarDev](https://twitter.com/NoahDunbarDev) or via email [noah@noahdunbar.com](mailto:noah@noahdunbar.com)
 
 ### Links
 
