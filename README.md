@@ -59,3 +59,5 @@ Here are some ideas to get you started:
 -->
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=The-Noah&count_private=true&show_icons=true&disable_animations=true&bg_color=161b22&border_color=30363d&text_color=FFFC&title_color=58a6ff&icon_color=58a6ff)
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C8AYYRC)
