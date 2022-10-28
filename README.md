@@ -11,7 +11,16 @@ I’m a full-stack developer who loves learning and building various websites an
 [![Twitter](https://img.shields.io/badge/-@NoahDunbarDev-white?style=for-the-badge&logo=twitter)](https://twitter.com/NoahDunbarDev)
 [![Blog](https://img.shields.io/badge/-Blog-white?style=for-the-badge&logoColor=2962FF&logo=hashnode)](https://blog.noahdunbar.com)
 
-### Tech Stack
+| **Favorite tech** | |
+| --- | --- |
+| Programming language | ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logoColor=white&logo=typescript) |
+| JavaScript framework | ![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=for-the-badge&logoColor=white&logo=svelte) |
+| Hosting provider | ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=for-the-badge&logoColor=white&logo=cloudflare) |
+| Database | ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logoColor=white&logo=supabase) |
+| Editor | ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logoColor=white&logo=visual-studio-code) |
+| Browser | ![Edge](https://img.shields.io/badge/-Edge-0078D7?style=for-the-badge&logoColor=white&logo=microsoft-edge) |
+
+<!-- ### Tech Stack
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logoColor=white&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logoColor=black&logo=javascript)
@@ -31,7 +40,7 @@ I’m a full-stack developer who loves learning and building various websites an
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logoColor=white&logo=mongodb)
 ![Linux Servers](https://img.shields.io/badge/-Linux%20Servers-FCC624?style=for-the-badge&logoColor=black&logo=linux)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logoColor=white&logo=visual-studio-code)
-![Edge](https://img.shields.io/badge/-Edge-0078D7?style=for-the-badge&logoColor=white&logo=microsoft-edge)
+![Edge](https://img.shields.io/badge/-Edge-0078D7?style=for-the-badge&logoColor=white&logo=microsoft-edge) -->
 
 <!-- [![GitHub Activity](https://img.shields.io/badge/-GitHub%20Activity-white?style=for-the-badge&logoColor=black&logo=github)](https://gitstalk.netlify.app/The-Noah) -->
 
