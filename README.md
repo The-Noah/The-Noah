@@ -3,7 +3,7 @@
 I’m a full-stack developer who loves learning and building various websites and tools, especially interactive web apps. I’ve been teaching myself to code for the past 10 years and am currently learning DevOps. I'm highly motivated to learn new skills while bringing my all to everything I do.
 
 - 🔭 I’m currently working [OneProfile](https://oneprofile.app).
-- 🌱 I’m currently learning Supabase and Stripe.
+- 🌱 I’m currently learning Supabase, Stripe and IaC (Ansible + Terraform).
 - 📫 You can contact me via email: [noah@noahdunbar.com](mailto:noah@noahdunbar.com)
 
 [![Website](https://img.shields.io/badge/-Website-white?style=for-the-badge)](https://noahdunbar.com)
