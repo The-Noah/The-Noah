@@ -14,7 +14,7 @@ I’m a full-stack developer who loves learning and building various websites an
 | **Favorite tech** | |
 | --- | --- |
 | Programming language | [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logoColor=white&logo=typescript)](https://typescriptlang.org/) |
-| JavaScript framework | [![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=for-the-badge&logoColor=white&logo=svelte)](https://svelte.dev) |
+| JavaScript framework | [![SvelteKit](https://img.shields.io/badge/-SvelteKit-FF3E00?style=for-the-badge&logoColor=white&logo=svelte)](https://kit.svelte.dev) |
 | Hosting provider | [![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=for-the-badge&logoColor=white&logo=cloudflare)](https://developers.cloudflare.com/) |
 | Database | [![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logoColor=white&logo=supabase)](https://supabase.com/) |
 | Editor | [![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logoColor=white&logo=visual-studio-code)](https://code.visualstudio.com/) |
