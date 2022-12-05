@@ -13,12 +13,12 @@ I’m a full-stack developer who loves learning and building various websites an
 
 | **Favorite tech** | |
 | --- | --- |
-| Programming language | ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logoColor=white&logo=typescript) |
-| JavaScript framework | ![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=for-the-badge&logoColor=white&logo=svelte) |
-| Hosting provider | ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=for-the-badge&logoColor=white&logo=cloudflare) |
-| Database | ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logoColor=white&logo=supabase) |
-| Editor | ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logoColor=white&logo=visual-studio-code) |
-| Browser | ![Edge](https://img.shields.io/badge/-Edge-0078D7?style=for-the-badge&logoColor=white&logo=microsoft-edge) |
+| Programming language | [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logoColor=white&logo=typescript)](https://typescriptlang.org/) |
+| JavaScript framework | [![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=for-the-badge&logoColor=white&logo=svelte)](https://svelte.dev) |
+| Hosting provider | [![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=for-the-badge&logoColor=white&logo=cloudflare)](https://developers.cloudflare.com/) |
+| Database | [![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logoColor=white&logo=supabase)](https://supabase.com/) |
+| Editor | [![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logoColor=white&logo=visual-studio-code)](https://code.visualstudio.com/) |
+| Browser | [![Edge](https://img.shields.io/badge/-Edge-0078D7?style=for-the-badge&logoColor=white&logo=microsoft-edge)](https://microsoft.com/edge) |
 
 <!-- ### Tech Stack
 
