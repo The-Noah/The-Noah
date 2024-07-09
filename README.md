@@ -1,9 +1,9 @@
 ## Hi there, I'm Noah 👋
 
-I’m a full-stack developer who loves learning and building various websites and tools, especially interactive web apps. I’ve been teaching myself to code for the past 10 years and am currently learning DevOps. I'm highly motivated to learn new skills while bringing my all to everything I do.
+I’m a full-stack developer who loves learning and building various websites and tools, especially interactive web apps. I’ve been teaching myself to code for the past 10 years and am currently learning Rust. I'm highly motivated to learn new skills while bringing my all to everything I do.
 
-- 🔭 I’m currently working [OneProfile](https://oneprofile.app).
-- 🌱 I’m currently learning Supabase, Stripe and IaC (Ansible + Terraform).
+- 🔭 I’m currently working on various small projects.
+- 🌱 I’m currently learning Rust.
 - 📫 You can contact me via email: [noah@noahdunbar.com](mailto:noah@noahdunbar.com)
 
 [![Website](https://img.shields.io/badge/-Website-white?style=for-the-badge)](https://noahdunbar.com)
@@ -11,14 +11,16 @@ I’m a full-stack developer who loves learning and building various websites an
 [![Twitter](https://img.shields.io/badge/-@NoahDunbarDev-white?style=for-the-badge&logo=twitter)](https://twitter.com/NoahDunbarDev)
 [![Blog](https://img.shields.io/badge/-Blog-white?style=for-the-badge&logoColor=2962FF&logo=hashnode)](https://blog.noahdunbar.com)
 
+[![GitHub Activity](https://img.shields.io/badge/-GitHub%20Activity-white?style=for-the-badge&logoColor=black&logo=github)](https://gitstalk.netlify.app/The-Noah)
+
 | **Favorite tech** | |
 | --- | --- |
-| Programming language | [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logoColor=white&logo=typescript)](https://typescriptlang.org/) |
+| Programming languages | [![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logoColor=white&logo=rust)](https://rustlang.org/) [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logoColor=white&logo=typescript)](https://typescriptlang.org/) |
 | JavaScript framework | [![SvelteKit](https://img.shields.io/badge/-SvelteKit-FF3E00?style=for-the-badge&logoColor=white&logo=svelte)](https://kit.svelte.dev) |
 | Hosting provider | [![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=for-the-badge&logoColor=white&logo=cloudflare)](https://developers.cloudflare.com/) |
-| Database | [![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logoColor=white&logo=supabase)](https://supabase.com/) |
+| Database | [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logoColor=white&logo=postgresql)](https://postgresql.org/) |
 | Editor | [![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logoColor=white&logo=visual-studio-code)](https://code.visualstudio.com/) |
-| Browser | [![Edge](https://img.shields.io/badge/-Edge-0078D7?style=for-the-badge&logoColor=white&logo=microsoft-edge)](https://microsoft.com/edge) |
+| Browser | [![Firefox Developer Edition](https://img.shields.io/badge/-Firefox%20Developer%20Edition-FF7139?style=for-the-badge&logoColor=white&logo=firefox-browser)](https://mozilla.org/en-US/firefox/developer/) |
 
 <!-- ### Tech Stack
 
@@ -68,6 +70,7 @@ Here are some ideas to get you started:
 ![C++](https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=cplusplus&labelColor=00599C)
 -->
 
-![Stats](https://github-readme-stats.vercel.app/api?username=The-Noah&count_private=true&show_icons=true&disable_animations=true&bg_color=161b22&border_color=30363d&text_color=FFFC&title_color=58a6ff&icon_color=58a6ff)
+<!--![Stats](https://github-readme-stats.vercel.app/api?username=The-Noah&count_private=true&show_icons=true&disable_animations=true&bg_color=161b22&border_color=30363d&text_color=FFFC&title_color=58a6ff&icon_color=58a6ff)-->
 
+[![GitHub Sponsers](https://img.shields.io/badge/-GitHub%20Sponsers-000000?style=for-the-badge&logoColor=white&logo=github)](https://github.com/sponsors/The-Noah)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C8AYYRC)
