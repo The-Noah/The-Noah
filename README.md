@@ -1,18 +1,21 @@
-## Hi there, I'm Noah 👋
+# Hi there, I'm Noah 👋
 
 I’m a full-stack developer who loves learning and building various websites and tools, especially interactive web apps. I’ve been teaching myself to code for the past 10 years and am currently learning Rust. I'm highly motivated to learn new skills while bringing my all to everything I do.
 
-- 🔭 I’m currently working on various small projects.
-- 🌱 I’m currently learning Rust.
-- 📫 You can contact me via email: [noah@noahdunbar.com](mailto:noah@noahdunbar.com)
+## My stack
 
-[![Website](https://img.shields.io/badge/-Website-white?style=for-the-badge)](https://noahdunbar.com)
-[![OneProfile](https://img.shields.io/badge/-OneProfile-white?style=for-the-badge)](https://oneprofile.app/noahdunbar)
-[![Twitter](https://img.shields.io/badge/-@NoahDunbarDev-white?style=for-the-badge&logo=twitter)](https://twitter.com/NoahDunbarDev)
-[![Blog](https://img.shields.io/badge/-Blog-white?style=for-the-badge&logoColor=2962FF&logo=hashnode)](https://blog.noahdunbar.com)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=svelte,ts,rust,cloudflare,workers,postgres,redis,docker,js,html,css,notion,obsidian" alt="Skills" />
+</p>
 
-[![GitHub Activity](https://img.shields.io/badge/-GitHub%20Activity-white?style=for-the-badge&logoColor=black&logo=github)](https://gitstalk.netlify.app/The-Noah)
+## My stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=The-Noah&count_private=true&show_icons=true&disable_animations=true&bg_color=101418&border_color=1b2028&text_color=FFFE&title_color=9932ee&icon_color=9932ee&hide_rank=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Noah&count_private=true&disable_animations=true&bg_color=101418&border_color=1b2028&text_color=FFFE&title_color=9932ee&langs_count=6&layout=compact&hide=c,objective-c" alt="Most used languages" />
+</p>
+
+<!--
 | **Favorite tech** | |
 | --- | --- |
 | Programming languages | [![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logoColor=white&logo=rust)](https://rustlang.org/) [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logoColor=white&logo=typescript)](https://typescriptlang.org/) |
@@ -21,6 +24,19 @@ I’m a full-stack developer who loves learning and building various websites an
 | Database | [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logoColor=white&logo=postgresql)](https://postgresql.org/) |
 | Editor | [![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logoColor=white&logo=visual-studio-code)](https://code.visualstudio.com/) |
 | Browser | [![Firefox Developer Edition](https://img.shields.io/badge/-Firefox%20Developer%20Edition-FF7139?style=for-the-badge&logoColor=white&logo=firefox-browser)](https://mozilla.org/en-US/firefox/developer/) |
+-->
+
+<!--
+- 🔭 I’m currently working on various small projects.
+- 🌱 I’m currently learning Rust.
+- 📫 You can contact me via email: [noah@noahdunbar.com](mailto:noah@noahdunbar.com)
+
+[![Website](https://img.shields.io/badge/-Website-white?style=for-the-badge)](https://noahdunbar.com)
+[![OneProfile](https://img.shields.io/badge/-OneProfile-white?style=for-the-badge)](https://oneprofile.app/noahdunbar)
+[![Twitter](https://img.shields.io/badge/-@NoahDunbarDev-white?style=for-the-badge&logo=twitter)](https://twitter.com/NoahDunbarDev)
+[![Blog](https://img.shields.io/badge/-Blog-white?style=for-the-badge&logoColor=2962FF&logo=hashnode)](https://blog.noahdunbar.com)
+[![GitHub Activity](https://img.shields.io/badge/-GitHub%20Activity-white?style=for-the-badge&logoColor=black&logo=github)](https://gitstalk.netlify.app/The-Noah)
+-->
 
 <!-- ### Tech Stack
 
@@ -71,6 +87,8 @@ Here are some ideas to get you started:
 -->
 
 <!--![Stats](https://github-readme-stats.vercel.app/api?username=The-Noah&count_private=true&show_icons=true&disable_animations=true&bg_color=161b22&border_color=30363d&text_color=FFFC&title_color=58a6ff&icon_color=58a6ff)-->
+
+## Show support
 
 [![GitHub Sponsers](https://img.shields.io/badge/-GitHub%20Sponsers-000000?style=for-the-badge&logoColor=white&logo=github)](https://github.com/sponsors/The-Noah)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C8AYYRC)
