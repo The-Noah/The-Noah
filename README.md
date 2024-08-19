@@ -17,7 +17,7 @@ I’m a full-stack developer who loves learning and building various websites an
 
 ## Contact me
 
-<table>
+<table align="center">
   <tbody>
     <tr>
       <td width="92px">
