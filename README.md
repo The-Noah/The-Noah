@@ -35,7 +35,7 @@ I’m a full-stack developer who loves learning and building various websites an
         <img align="center" src="https://avatars.githubusercontent.com/u/702459?s=200&v=4" width="64" height="64" alt="Signal" />
       </td>
       <td>
-        <a href="https://signal.me/#eu/xHyTd8e5_jQx5DT7hVDmwxD4PzHqDegL_-fNnj8Wkk-wHFKJodNCApVPrSb2iINO">Signal</a>
+        <a href="https://signal.me/#eu/TACJVyFpSB0pNjflIN6kpikpwpCeiqYhiCP_l_26D-l-5CnLcFFFUYPUphGE2Tir">Signal</a>
       </td>
       <td>
         <p>If you need secure communication.</p>
