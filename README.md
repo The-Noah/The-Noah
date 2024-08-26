@@ -24,7 +24,7 @@ I’m a full-stack developer who loves learning and building various websites an
         <img align="center" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" width="64" height="64" alt="Discord" />
       </td>
       <td>
-        <a href="https://discord.com/users/393584388702470146">Discord</a>
+        <a href="https://go.noahdunbar.com/discord">Discord</a>
       </td>
       <td>
         <p>My preferred method of communication.</p>
@@ -35,7 +35,7 @@ I’m a full-stack developer who loves learning and building various websites an
         <img align="center" src="https://avatars.githubusercontent.com/u/702459?s=200&v=4" width="64" height="64" alt="Signal" />
       </td>
       <td>
-        <a href="https://signal.me/#eu/TACJVyFpSB0pNjflIN6kpikpwpCeiqYhiCP_l_26D-l-5CnLcFFFUYPUphGE2Tir">Signal</a>
+        <a href="https://go.noahdunbar.com/signal">Signal</a>
       </td>
       <td>
         <p>If you need secure communication.</p>
