@@ -8,12 +8,12 @@ I’m a full-stack developer who loves learning and building various websites an
   <img src="https://skillicons.dev/icons?i=svelte,ts,rust,cloudflare,workers,postgres,redis,docker,js,html,css,notion,obsidian" alt="Skills" />
 </p>
 
-## My stats
+<!--## My stats
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=The-Noah&count_private=true&show_icons=true&disable_animations=true&bg_color=101418&border_color=1b2028&text_color=FFFE&title_color=9932ee&icon_color=9932ee&hide_rank=true" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Noah&count_private=true&disable_animations=true&bg_color=101418&border_color=1b2028&text_color=FFFE&title_color=9932ee&langs_count=4&layout=compact&hide=c,objective-c,c%23" alt="Most used languages" />
-</p>
+</p>-->
 
 ## Contact me
 
