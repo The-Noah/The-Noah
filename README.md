@@ -5,7 +5,7 @@ I’m a full-stack developer who loves learning and building various websites an
 ## My stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=svelte,ts,rust,actix,cloudflare,workers,postgres,redis,docker,vite,sqlite,deno,bun,js,html,css,sass,vscode,github,obsidian,notion,windows" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=svelte,ts,rust,actix,cloudflare,workers,postgres,redis,docker,vite,sqlite,deno,bun,js,html,css,sass,ansible,terraform,vscode,github,obsidian,notion,windows" alt="Skills" />
 </p>
 
 <!--## My stats
