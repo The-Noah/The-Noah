@@ -5,7 +5,7 @@ I’m a full-stack developer who loves learning and building various websites an
 ## My stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=svelte,ts,rust,actix,cloudflare,workers,postgres,redis,docker,js,html,css,sass,obsidian,notion" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=svelte,ts,rust,actix,cloudflare,workers,postgres,redis,docker,vite,sqlite,deno,bun,js,html,css,sass,vscode,github,obsidian,notion,windows" alt="Skills" />
 </p>
 
 <!--## My stats
@@ -20,8 +20,8 @@ I’m a full-stack developer who loves learning and building various websites an
 <table>
   <tbody>
     <tr>
-      <td width="92px">
-        <img align="center" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" width="64" height="64" alt="Discord" />
+      <td width="64px">
+        <img align="center" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" width="48" height="48" alt="Discord" />
       </td>
       <td>
         <a href="https://go.noahdunbar.com/discord">Discord</a>
@@ -31,8 +31,8 @@ I’m a full-stack developer who loves learning and building various websites an
       </td>
     </tr>
     <tr>
-      <td width="92px">
-        <img align="center" src="https://avatars.githubusercontent.com/u/702459?s=200&v=4" width="64" height="64" alt="Signal" />
+      <td width="64px">
+        <img align="center" src="https://avatars.githubusercontent.com/u/702459?s=200&v=4" width="48" height="48" alt="Signal" />
       </td>
       <td>
         <a href="https://go.noahdunbar.com/signal">Signal</a>
